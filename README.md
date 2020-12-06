@@ -16,8 +16,12 @@ The following criteria has been met.
 
  - The title element is concise and descriptive.
 
-Updated webpage at <https://irjaimes.github.io/horiseon/>
+Updated webpage at: <https://irjaimes.github.io/horiseon/>
+
+GitHub repository at: <https://github.com/irjaimes/horiseon>
 
 Reference screenshot:
+
+
  ![Screenshot](assets/images/screenshot.png)
 
