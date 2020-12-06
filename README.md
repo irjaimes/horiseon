@@ -15,9 +15,9 @@ The image elements contain accessible alt attributes.
 The heading attributes fall in sequential order.
 
 The title element is concise and descriptive.
- 
- [a link](https://irjaimes.github.io/horiseon/)
 
- 
- ![Screenshot](assets/images/screen-shot.png)
+Updated webpage at <https://irjaimes.github.io/horiseon/>
+
+Reference screenshot:
+ ![Screenshot](assets/images/screenshot.png)
 
