@@ -1,24 +1,23 @@
 # Code Refactor Starter Code
-A marketing agency requests a codebase that follows accessibility standards, so that the site is optimized for search engines
 
-The following criteria must be met.
+Project code has been refactored for accessibility standards, so that the site is optimized for search engines.
 
-GIVEN a webpage meets accessibility standards
+The following criteria has been met.
 
-WHEN I view the source code
-THEN I find semantic HTML elements
+Webpage meets accessibility standards.
 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+The source code includes semantic HTML elements.
 
-WHEN I view the image elements
-THEN I find accessible alt attributes
+The structure of the HTML elements follow a logical structure independent of styling and positioning.
 
-WHEN I view the heading attributes
-THEN they fall in sequential order
+The image elements contain accessible alt attributes.
 
-WHEN I view the title element
-THEN I find a concise, descriptive title
+The heading attributes fall in sequential order.
+
+The title element is concise and descriptive.
  
+ [a link](https://irjaimes.github.io/horiseon/)
 
+ 
  ![Screenshot](assets/images/screen-shot.png)
+
